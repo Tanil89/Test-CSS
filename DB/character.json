@@ -1,0 +1,12 @@
+{
+    "AalisWintercrest": {
+        "Name": "Aalis Wintercrest",
+        "Game System": "Fabula Ultima",
+        "Game Type": "Fantasy",
+        "Background": "/DB/Tales/Aalis_Wintercrest_BG.txt",
+        "Campaign": {
+            "Chapter_1": "/DB/Tales/Aalis_Wintercrest_chapter_0.html",
+            "Chapter_2": "/DB/Tales/Aalis_Wintercrest_chapter_1.html"
+        }
+    }
+}
